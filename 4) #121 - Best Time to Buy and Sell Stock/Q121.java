@@ -1,6 +1,6 @@
 // Easy
 
-class Solution {
+class Solution121 {
     public int maxProfit(int[] prices) {
         int bestBuy = prices[0];
         int sell = 0;

@@ -1,6 +1,6 @@
 // Easy
 
-class Solution {
+class Solution1480 {
     public int[] runningSum(int[] nums) {
         int[] output = new int[nums.length];
         int val = 0;

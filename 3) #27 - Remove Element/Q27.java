@@ -1,6 +1,6 @@
 // Easy
 
-class Solution {
+class Solution27 {
     public int removeElement(int[] nums, int val) {
         int a = 0;
         int k = 0;
