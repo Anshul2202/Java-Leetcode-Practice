@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution349 {
     public int[] intersection(int[] nums1, int[] nums2) {
         
         HashSet<Integer> set1 = new HashSet<>();
