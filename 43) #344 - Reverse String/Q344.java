@@ -1,4 +1,4 @@
-class Solution344 {
+class Q344 {
     public void reverseString(char[] s) {
         char forwardChar = ' ';
         char backwardChar = ' ';
