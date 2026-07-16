@@ -1,4 +1,4 @@
-class Solution557 {
+class Solution521 {
     public int findLUSlength(String a, String b) {
         
         if(!a.equals(b)){
