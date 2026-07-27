@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution1773 {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
         int idx = 0;
