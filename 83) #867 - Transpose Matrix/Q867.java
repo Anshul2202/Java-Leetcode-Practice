@@ -1,6 +1,6 @@
-// 867. Transpose Matrix
+// 867. Transpose MatrixN
 
-class Solution867 {
+class Solution867{
     public int[][] transpose(int[][] matrix) {
 
         int[][] ans = new int[matrix[0].length][matrix.length];
