@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution1380 {
+class Solution1380{
     public List<Integer> luckyNumbers(int[][] matrix) {
 
         List<Integer> list = new ArrayList<>();
@@ -11,7 +11,6 @@ class Solution1380 {
 
             int minIdx = findMin(matrix, i);
             int val = matrix[i][minIdx];
-
             int maxVal = -1;
 
             for(int j = 0; j < matrix.length; j++){
